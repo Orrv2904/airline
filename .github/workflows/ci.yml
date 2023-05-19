@@ -10,3 +10,4 @@ jobs:
       run : | 
         pip3 install --user django
         python3 manage.py test
+ 
